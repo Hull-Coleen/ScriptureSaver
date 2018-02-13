@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Scripture Saver</string>
+    <string name="text_message">Enter your favorite scripture</string>
+    <string name="book_message">Book</string>
+    <string name="chapter_message">Chapter</string>
+    <string name="verse_message">Verse</string>
+    <string name="button_send">Send</string>
+    <string name="scripture_message">scripture</string>
+    <string name="save_scripture">Save Scripture</string>
+    <string name="Second_scripture">second</string>
+    <string name="prefer">Load Scripture</string>
+</resources>
